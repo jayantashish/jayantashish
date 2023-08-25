@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Web Development. ----------------->![WebSpider.GIF](https://github.com/jayantashish/jayantashish/assets/84563586/e35ada6b-84aa-41a8-9421-24b93c297b84)
 
-- 🌱 I’m currently learning because -
+- 🌱 I’m currently learning ...
 - "The expert in anything was once a beginner."
                                         ~ By Someone I Don't Know.
 - ![ReadingKilljoy.GIF](https://github.com/jayantashish/jayantashish/assets/84563586/b2d78bbb-3291-4fb5-8d9e-85d23531b528)
