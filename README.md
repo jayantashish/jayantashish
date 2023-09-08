@@ -7,7 +7,8 @@
                                         ~ By Someone I Don't Know.
 - ![ReadingKilljoy.GIF](https://github.com/jayantashish/jayantashish/assets/84563586/b2d78bbb-3291-4fb5-8d9e-85d23531b528)
 - ![SoftwareSoftwareDevelopment.GIF](https://github.com/jayantashish/jayantashish/assets/84563586/df23a6ba-1993-4249-bde5-f950023f8b54)
-- ![Coding.GIF](https://github.com/jayantashish/jayantashish/assets/84563586/3c431290-2d96-42d1-bf87-d098f1213db5)
+<!--- ![Coding.GIF](https://github.com/jayantashish/jayantashish/assets/84563586/3c431290-2d96-42d1-bf87-d098f1213db5)
+--->
 
 
 
